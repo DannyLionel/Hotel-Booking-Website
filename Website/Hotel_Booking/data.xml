@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<hotels>
+  <hotel>
+    <id>1</id>
+    <name>IOM Inn</name>
+    <rating>7.2</rating>
+    <city>Brampton</city>
+    <state>Ontario</state>
+    <address>123 Apple Bine Stree</address>
+    <zip>L6Y 7J9</zip>
+  </hotel>
+  <hotel>
+    <id>2</id>
+    <name>Tonys Inn</name>
+    <rating>5.9</rating>
+    <city>Toronto</city>
+    <state>Ontario</state>
+    <address>89 Bronte Street</address>
+    <zip>M3Y 8D0</zip>
+  </hotel>
+  <hotel>
+    <id>3</id>
+    <name>Best Western</name>
+    <rating>9.9</rating>
+    <city>Oshawa</city>
+    <state>Ontario</state>
+    <address>234 Castle Oak Drive</address>
+    <zip>L4H 2H9</zip>
+  </hotel>
+  <hotel>
+    <id>4</id>
+    <name>Hilton</name>
+    <rating>9.9</rating>
+    <city>Toronto</city>
+    <state>Ontario</state>
+    <address>45 Oak Meadow Drive</address>
+    <zip>M5H 3I0</zip>
+  </hotel>
+</hotels>
